@@ -6,18 +6,17 @@ My work spans modern web applications, scalable backend systems, mobile apps, AP
 
 I bring together **software engineering + robotics** to build reliable, real-world systems.
 
----
 
-## 🚀 Tech Stack & Skills
+# 🚀 Tech Stack & Skills
 
-### **💻 Programming**
+## **💻 Programming**
 - Python
 - C/C++
 - JavaScript
 - TypeScript
 - VHDL
 
-### **⚛️ Frameworks & Libraries**
+## **⚛️ Frameworks & Libraries**
 - ReactJS, React Native
 - NodeJS
 - Vue.js
@@ -26,19 +25,19 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - jQuery
 - JWT Authentication
 
-### **🤖 Robotics**
+## **🤖 Robotics**
 - ROS (Robot Operating System)
 - Gazebo simulation
 - Franka Emika integration
 - Robotics control pipelines
 
-### **🔗 APIs & Testing**
+## **🔗 APIs & Testing**
 - REST APIs
 - Postman
 - Swagger
 - CI/CD automation
 
-### **🛠️ DevOps & Tools**
+## **🛠️ DevOps & Tools**
 - Git & GitHub
 - Docker
 - Linux
@@ -47,67 +46,56 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - LaTeX  
 - Research & Documentation
 
-### **🗄 Databases**
+## **🗄 Databases**
 - MongoDB
 - MySQL
 
----
 
-## ⭐ Highlighted Projects
+# ⭐ Highlighted Projects
 
-### 🔹 **1. Franka Emika Fault Injection Workspace**
+## 🔹 **1. Franka Emika Fault Injection Workspace**
 **Repository:** `Franka-Emika-FI-WS`  
 **Tech:** ROS, Python, Gazebo, Robotics  
 - Custom workspace for Franka Emika robotic arm  
 - Fault injection & behavior validation  
 - ROS-based modular control architecture  
 
----
-
-### 🔹 **2. Tellwut Mobile Application**
+## 🔹 **2. Tellwut Mobile Application**
 **Repository:** `Tellwut-Mobile`  
 **Tech:** React Native, REST APIs  
 - Survey & engagement mobile app  
 - Fully integrated with backend APIs  
 - Secure authentication & modern UI flows  
 
----
 
-### 🔹 **3. EM-Urgency System (Full Stack)**
-**Repositories:** `EM-Urgency-FrontEnd`, `EM-Urgency-BackEnd`  
+## 🔹 **3. EM-Urgency: Alert Management System (Full Stack)**
+**Repositories:** `EM_Urgency_Frontend`, `EM_Urgency_Backend`  
 **Tech:** React, Node.js, Express.js, MongoDB  
 - Emergency management platform  
 - Real-time updates & responsive UI  
 - Secure login & admin dashboard  
 
----
 
-### 🔹 **4. Clinic Management System**
-**Repositories:**  
-- `Clinic-Management-System-Backend`  
-- `Clinic-Management-System-Frontend`  
+## 🔹 **4. HealthTech: Clinic Management System (Full Stack)**
+**Repositories:**  `Clinic_Management_Frontend`, `Clinic_Management_Backend`  
 **Tech:** Node.js, MySQL, React  
 - Patient registration & tracking  
 - Appointment scheduling  
 - Doctor portal & secure role-based workflows  
 
----
 
-## 📫 Contact Me
+# 📫 Contact Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/adnanm281999/
 - 📧 **Email:** adnanmk281999@gmail.com
 
----
 
-## 🌱 What I’m Working On
+# 🌱 What I’m Working On
 - Robotics & ROS-based automation  
 - Full-stack architectures  
 - Improving CI/CD practices  
 - Writing clean, scalable backend APIs  
 
----
 
-## 🏆 Goal
+# 🏆 Goal
 To combine **software engineering excellence** with **robotics expertise** and build scalable, impactful real-world systems.
 
----
