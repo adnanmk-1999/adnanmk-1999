@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Adnan**
-### **Software Developer | Full-Stack Engineer | Robotics Engineer**
+### **Software Developer | Full-Stack Engineer | Robotics Engineer | Android/IOS Developler**
 
-I am a versatile developer with strong experience in **frontend & backend development**, along with hands-on expertise in **robotics, ROS, embedded systems, and simulation environments**.  
+I am a versatile developer with strong experience in **frontend & backend development, mobile application engineering**, along with hands-on expertise in **robotics, ROS, embedded systems, and simulation environments**.  
 My work spans modern web applications, scalable backend systems, mobile apps, API engineering, and robotic system development.
 
 I bring together **software engineering + robotics** to build reliable, real-world systems.
@@ -22,6 +22,7 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - Vue.js
 - Express.js
 - Sequelize (ORM)
+- Android build system (Gradle)
 - jQuery
 - JWT Authentication
 
@@ -30,18 +31,21 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - Gazebo simulation
 - Franka Emika integration
 - Robotics control pipelines
+- Fault injection & system validation
 
 ## **🔗 APIs & Testing**
 - REST APIs
 - Postman
 - Swagger
 - CI/CD automation
+- API debugging & validation
 
 ## **🛠️ DevOps & Tools**
 - Git & GitHub
 - Docker
 - Linux
 - Jira, Confluence
+- Android Studio
 - Figma
 - LaTeX  
 - Research & Documentation
@@ -60,12 +64,14 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - Fault injection & behavior validation  
 - ROS-based modular control architecture  
 
-## 🔹 **2. Tellwut Mobile Application**
-**Repository:** `Tellwut-Mobile`  
-**Tech:** React Native, REST APIs  
-- Survey & engagement mobile app  
-- Fully integrated with backend APIs  
-- Secure authentication & modern UI flows  
+## 🔹 **2. Pocket Tools — Android Utility App**
+**Repository:** `Pocket_Tools`  
+**Tech:** React Native (CLI), JavaScript, Android SDK, Gradle  
+- Multi-tool Android application (calculator, currency tools, time utilities, etc.)  
+- Implemented custom splash screen, theming, and assets 
+- Generated signed release APK with custom keystore
+- Built using React Native CLI (0.67) with manual Android configuration
+- Designed as an offline-first utility app
 
 
 ## 🔹 **3. EM-Urgency: Alert Management System (Full Stack)**
@@ -90,6 +96,7 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 
 
 # 🌱 What I’m Working On
+- Python modules and helpers
 - Robotics & ROS-based automation  
 - Full-stack architectures  
 - Improving CI/CD practices  
