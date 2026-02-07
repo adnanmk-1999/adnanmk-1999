@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Adnan**
-### **Software Developer | Full-Stack Engineer | Robotics Engineer | Android/IOS Developler**
+### **Software Developer | Robotics Engineer | Autonomous Developer | Full-Stack Engineer |  Android/IOS Developer **
 
 I am a versatile developer with strong experience in **frontend & backend development, mobile application engineering**, along with hands-on expertise in **robotics, ROS, embedded systems, and simulation environments**.  
 My work spans modern web applications, scalable backend systems, mobile apps, API engineering, and robotic system development.
@@ -31,6 +31,9 @@ I bring together **software engineering + robotics** to build reliable, real-wor
 - Gazebo simulation
 - Franka Emika integration
 - Robotics control pipelines
+- Safety Critical Applications
+- Automous Driving (AMRs)
+- MPC
 - Fault injection & system validation
 
 ## **🔗 APIs & Testing**
